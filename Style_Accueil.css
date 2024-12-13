@@ -8,7 +8,7 @@ and open the template in the editor.
     Author     : ILAN.charre
 */
 body{
-    background-image: linear-gradient(to bottom right, #0080ff, #0000ff) 
+    background-image: ( bottom right, #0080ff, #0000ff) 
 }
 h1{
     text-align: center;
