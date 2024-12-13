@@ -13,17 +13,17 @@ body{
 h1{
     text-align: center;
     font-family: fantasy;
-    font-size: 50px;
+    font-size: 50;
     color: #cccccc
 }
 
 #Images_Accueil{
     align-content: center;
-    width: 33%;
-    border-radius: 7px
+    width: 33;
+    border-radius: 7
 }
 p{
-    font-size: 20px;
+    font-size: 20;
     color: #cccccc
 }
 a{
